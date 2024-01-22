@@ -8,3 +8,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ## Se cargo el ejemplo en github vercel  :
 npx create-next-app@latest navlino --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
 
+## Prueba de edicion y descargar del repositorio
